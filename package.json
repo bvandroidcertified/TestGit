@@ -1,0 +1,15 @@
+{
+    "name": "todo",
+    "version": "1.0.0",
+    "description": "une application de TODO",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node main.js"
+    },
+    "keywords": [
+        "todo"
+    ],
+    "author": "Mbaiwodji Bienvenue",
+    "license": "ISC"
+}
