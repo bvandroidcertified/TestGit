@@ -11,5 +11,8 @@
         "todo"
     ],
     "author": "Mbaiwodji Bienvenue",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "shalk": "^0.0.1-security"
+    }
 }
